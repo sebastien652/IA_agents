@@ -1,0 +1,29 @@
+# Environnement virtuel
+.venv/
+venv/
+env/
+
+# Cache Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Fichiers de configuration sensibles
+.env
+
+# Fichiers temporaires
+*.tmp
+*.log
+
+# Fichiers générés
+summary_*.docx
+summary_*.txt
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
