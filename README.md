@@ -2,6 +2,10 @@
 
 Projet contenant le script `agent_News.py` pour récupérer des actualités et envoyer un résumé par email.
 
+# Exercices python
+
+Sous dossier d'Exercices udemy en language python
+
 ## Installation
 
 1. Créez un environnement virtuel Python.
